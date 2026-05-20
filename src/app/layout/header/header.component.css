@@ -1,0 +1,25 @@
+.logo-img {
+  height: 50px;       /* control size */
+  width: auto;
+  object-fit: contain;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .logo-img {
+    height: 35px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

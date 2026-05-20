@@ -1,0 +1,33 @@
+.btn-get-started {
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* First Button */
+.btn-primary {
+  background-color: #f79d17;
+  color: white;
+}
+
+/* Second Button */
+.btn-secondary {
+  background-color: transparent;
+  color: #f79d17;
+  border: 2px solid #f79d17;
+}
+
+/* Hover Effects */
+.btn-primary:hover {
+  background-color: #f79d17;
+}
+
+.btn-secondary:hover {
+  background-color: #f79d17;
+  color: white;
+}
+.btn-group {
+  display: flex;
+  gap: 15px; /* space between buttons */
+}
